@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: pink;
+  margin: 0;
+}
+
+h1 {
+  color: red;
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  text-decoration: underline;
+  text-decoration-color: #ff0000;
+  font-style: italic;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.mammal {
+  color: red;
+  font-weight: bold;
+}
+
+.bird {
+  color: blue;
+  font-style: italic;
+}
+
+.fish {
+  color: orange;
+  text-decoration: underline;
+}
+
+#sloth {
+  background-color: grey;
+}
+
+#salmon {
+  background-color: salmon;
+}
+
+#tiger {
+  background-color: sienna;
+}
+
+#sheep {
+  background-color: steelblue;
+}
+
+li {
+  border-top: 3px seagreen solid;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  border-top: 8px dotted coral;
+}
+
+img {
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+footer {
+  background-color: fuchsia;
+  padding: 20px;
+  text-align: center;
+}
